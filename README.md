@@ -8,6 +8,7 @@ To learn more about me, don't forget to check out my [LinkedIn](https://www.link
 
 | Project  | Description | Languages and Tools  | Dates |
 | ------------- | ------------- |------------- | ------------- |
+| [FFT and Applications](https://github.com/samperezh/fft-and-applications) 🖼️ | Implementing Fast Fournier Transform and applying it in image processing. | Python | November 2023 |
 | [DNS Client](https://github.com/samperezh/dns_client) 🌎 | Implementing a domain name system (DNS) client using sockets. | Python, Socket Programming | September 2023 |
 | [MADA](https://github.com/hack4impact-mcgill/MADA-v2) 🚛 | Task management web app for MADA (a non-profit organization) aiming to facilitate an organized distribution of 300,000+ meals and supply boxes per year by enabling efficient task assignment between directors, employees and volunteers.  | React, RestAPI, TypeScript, Postman, TypeORM  | September 2022 - May 2023  |
 | [OnCampus](https://github.com/ECSE-428-Group-5-W-2023/OnCampus) 🕰️ | Scheduling application that allows users to share their course schedules and find common times to meet with their friends. | Java, React.js, PostgreSQL, Auth0, Docker, Cypress  | January 2023 - April 2023  |
